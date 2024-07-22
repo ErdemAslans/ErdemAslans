@@ -1,4 +1,4 @@
-# ErdemAslans
+# Erdem Aslan
 
 - 👋 Hi, I'm @ErdemAslans
 - 👀 I'm interested in Python, Django, AI, and Machine Learning
