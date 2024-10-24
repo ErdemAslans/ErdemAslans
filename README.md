@@ -1,6 +1,5 @@
 # Erdem Aslan
 
-[![Github](https://img.shields.io/badge/Github-Profile-informational?style=flat&logo=github)](https://github.com/ErdemAslans)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/erdem-aslan-3ab33b284/)
 [![Email](https://img.shields.io/badge/Email-Reach%20Me-red?style=flat&logo=gmail)](mailto:erdemaslan1905s@gmail.com)
 
