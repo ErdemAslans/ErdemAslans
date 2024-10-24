@@ -37,28 +37,9 @@
 - **Languages & Frameworks**: Python, Django, Node.js, .NET, TensorFlow, PyTorch, Jupyter, RESTful APIs
 - **Models & Libraries**: Vision Transformer, SegFormer, Swin Transformer, XGBoost, LightGBM, CatBoost, Optuna, SHAP
 - **Databases**: PostgreSQL, MongoDB, Firebase
-- **Tools**: Git, Docker, AWS, Google Cloud Platform, Heroku, JIRA
+- **Tools**: Git, Docker, AWS, Google Cloud Platform
 
----
 
-### Featured Projects:
-
-- **[Automated Pulmonary Hypertension Detection Using ViT](#)**:
-  Pulmonary Hypertension (PH) detection using Vision Transformer (ViT). Achieved **93.1% validation accuracy** using contrast-enhanced CT scans.
-  
-- **[AI-Powered Live Support with RAG & Django](#)**:
-  An AI-based live support system built with **RAG (Retrieval-Augmented Generation)**, integrated into a scalable Django platform for real-time customer assistance.
-
-- **[Home Credit Default Risk Prediction](#)**:
-  Developed an advanced credit risk prediction model using **XGBoost**, **LightGBM**, and **CatBoost**. Achieved **AUC scores of 0.7676, 0.7664, and 0.7633** respectively. Used SHAP for explainability.
-
-- **[ALL-IN-BANKER: AI-Powered Banking Platform](#)**:
-  Consolidates multiple AI-driven solutions into a single system to streamline banking processes. Built with **.NET**, focuses on critical decision-making and automation.
-
-- **[LiveSystem - Real-time Interaction Platform](#)**:
-  A real-time live support and interaction platform using **Node.js** for backend, designed to provide high availability and low latency for online customer engagement.
-
----
 
 ### Always Open to New Adventures:
 
