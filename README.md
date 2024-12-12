@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/erdem-aslan-3ab33b284/)
 [![Email](https://img.shields.io/badge/Email-Reach%20Me-red?style=flat&logo=gmail)](mailto:erdemaslan1905s@gmail.com)
 
-## Senior AI & Machine Learning Researcher| Full Stack Developer |  Data Scientist
+##  AI & Machine Learning Researcher| Full Stack Developer |  Data Scientist
 
 - 🧠 Expertise: **Deep Learning, Machine Learning, Full Stack Web Development**
 - 🛠️ Technologies: Python, Django, Node.js, .NET, ViT, SegFormer, Swin, RAG, XGBoost, LightGBM
